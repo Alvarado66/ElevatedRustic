@@ -1,0 +1,15 @@
+.jumbotron {
+    font-family: 'Great Vibes', cursive;
+    font-size: larger;
+    background-image: url(https://images-na.ssl-images-amazon.com/images/I/618Uulczh5L._AC_SL1100_.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.collBtn {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
